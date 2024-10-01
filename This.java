@@ -1,5 +1,6 @@
 import java.util.*;
 
+import mathfuncs.*;
 // Understanding 'this' keyword
 
 public class This {
@@ -16,6 +17,8 @@ public class This {
         int age = 88;
         This obj1 = new This();
         This obj2 = new This(30);
+
+        System.out.println("Age value: " + MathFunc.add(10, 20));
 
         System.out.println("Age value: " + age);
         System.out.println("Age value: " + obj1.age);
