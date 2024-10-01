@@ -1,4 +1,3 @@
-import java.util.*;
 
 public class AccessControl {
     private String name = "AnuragAnalog";

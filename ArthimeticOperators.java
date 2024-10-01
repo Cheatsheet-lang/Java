@@ -1,4 +1,3 @@
-import java.util.*;
 
 // Add one line comments to the code below to explain what each line does
 

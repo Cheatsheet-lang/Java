@@ -1,4 +1,3 @@
-import java.util.*;
 
 abstract class Person {
     String name;
