@@ -1,4 +1,3 @@
-import java.util.*;
 
 // Understanding "Character Class" in Java
 

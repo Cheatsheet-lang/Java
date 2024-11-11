@@ -1,4 +1,3 @@
-import java.util.*;
 
 // Understanding Overloading
 // Overloading is a concept in Java where a class can have multiple methods with the same name but different parameters.

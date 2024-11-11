@@ -1,4 +1,3 @@
-import java.util.*;
 
 // Understanding Overriding
 // Overriding is a concept in Java where a subclass can provide a specific implementation of a method that is already provided by its superclass.

@@ -34,9 +34,9 @@ public class ArthimeticOperators {
         System.out.println("a = " + +a);
 
         // Prefix increment
-        System.out.println("++a = " + (++a));
+        System.out.println("++c = " + (++c));
 
         // Prefix decrement
-        System.out.println("--a = " + (--a));
+        System.out.println("--d = " + (--d));
     }
 }
